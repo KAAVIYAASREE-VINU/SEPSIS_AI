@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix SEPSIS-AI: Trajectory",
+  "description": "Clinical decision-support dashboard for sepsis risk monitoring and trajectory analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
